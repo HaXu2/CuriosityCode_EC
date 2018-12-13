@@ -1,5 +1,4 @@
 // Post your CuriosityCode_EC here. 
-/* @pjs preload="flag.png"; */
 PImage img;
 
 void setup(){
